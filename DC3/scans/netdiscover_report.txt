@@ -1,0 +1,65 @@
+[H[2J[3J Currently scanning: Starting.   |   Screen View: Unique Hosts                                                                                              
+                                                                                                                                                            
+ 0 Captured ARP Req/Rep packets, from 0 hosts.   Total size: 0                                                                                              
+ _____________________________________________________________________________
+   IP            At MAC Address     Count     Len  MAC Vendor / Hostname      
+ -----------------------------------------------------------------------------
+ Currently scanning: Starting.   |   Screen View: Unique Hosts                                                                                              
+                                                                                                                                                            
+ 0 Captured ARP Req/Rep packets, from 0 hosts.   Total size: 0                                                                                              
+ _____________________________________________________________________________
+   IP            At MAC Address     Count     Len  MAC Vendor / Hostname      
+ -----------------------------------------------------------------------------
+ Currently scanning: 10.109.172.1/24   |   Screen View: Unique Hosts                                                                                        
+                                                                                                                                                            
+ 0 Captured ARP Req/Rep packets, from 0 hosts.   Total size: 0                                                                                              
+ _____________________________________________________________________________
+   IP            At MAC Address     Count     Len  MAC Vendor / Hostname      
+ -----------------------------------------------------------------------------
+ Currently scanning: 10.109.172.1/24   |   Screen View: Unique Hosts                                                                                        
+                                                                                                                                                            
+ 3 Captured ARP Req/Rep packets, from 3 hosts.   Total size: 180                                                                                            
+ _____________________________________________________________________________
+   IP            At MAC Address     Count     Len  MAC Vendor / Hostname      
+ -----------------------------------------------------------------------------
+ 10.109.172.45   30:03:c8:00:17:1b      1      60  CLOUD NETWORK TECHNOLOGY SINGAPORE PTE. LTD.                                                             
+ 10.109.172.126  62:81:25:ea:5e:cd      1      60  Unknown vendor                                                                                           
+ 10.109.172.166  00:0c:29:a0:9b:36      1      60  VMware, Inc.                                                                                             
+ Currently scanning: 10.109.172.1/24   |   Screen View: Unique Hosts                                                                                        
+                                                                                                                                                            
+ 3 Captured ARP Req/Rep packets, from 3 hosts.   Total size: 180                                                                                            
+ _____________________________________________________________________________
+   IP            At MAC Address     Count     Len  MAC Vendor / Hostname      
+ -----------------------------------------------------------------------------
+ 10.109.172.45   30:03:c8:00:17:1b      1      60  CLOUD NETWORK TECHNOLOGY SINGAPORE PTE. LTD.                                                             
+ 10.109.172.126  62:81:25:ea:5e:cd      1      60  Unknown vendor                                                                                           
+ 10.109.172.166  00:0c:29:a0:9b:36      1      60  VMware, Inc.                                                                                             
+ Currently scanning: Finished!   |   Screen View: Unique Hosts                                                                                              
+                                                                                                                                                            
+ 3 Captured ARP Req/Rep packets, from 3 hosts.   Total size: 180                                                                                            
+ _____________________________________________________________________________
+   IP            At MAC Address     Count     Len  MAC Vendor / Hostname      
+ -----------------------------------------------------------------------------
+ 10.109.172.45   30:03:c8:00:17:1b      1      60  CLOUD NETWORK TECHNOLOGY SINGAPORE PTE. LTD.                                                             
+ 10.109.172.126  62:81:25:ea:5e:cd      1      60  Unknown vendor                                                                                           
+ 10.109.172.166  00:0c:29:a0:9b:36      1      60  VMware, Inc.                                                                                             
+ Currently scanning: Finished!   |   Screen View: Unique Hosts                                                                                              
+                                                                                                                                                            
+ 4 Captured ARP Req/Rep packets, from 4 hosts.   Total size: 240                                                                                            
+ _____________________________________________________________________________
+   IP            At MAC Address     Count     Len  MAC Vendor / Hostname      
+ -----------------------------------------------------------------------------
+ 10.109.172.45   30:03:c8:00:17:1b      1      60  CLOUD NETWORK TECHNOLOGY SINGAPORE PTE. LTD.                                                             
+ 10.109.172.126  62:81:25:ea:5e:cd      1      60  Unknown vendor                                                                                           
+ 10.109.172.166  00:0c:29:a0:9b:36      1      60  VMware, Inc.                                                                                             
+ 10.109.172.228  e8:5a:8b:47:85:4b      1      60  Xiaomi Communications Co Ltd                                                                             
+ Currently scanning: Finished!   |   Screen View: Unique Hosts                                                                                              
+                                                                                                                                                            
+ 4 Captured ARP Req/Rep packets, from 4 hosts.   Total size: 240                                                                                            
+ _____________________________________________________________________________
+   IP            At MAC Address     Count     Len  MAC Vendor / Hostname      
+ -----------------------------------------------------------------------------
+ 10.109.172.45   30:03:c8:00:17:1b      1      60  CLOUD NETWORK TECHNOLOGY SINGAPORE PTE. LTD.                                                             
+ 10.109.172.126  62:81:25:ea:5e:cd      1      60  Unknown vendor                                                                                           
+ 10.109.172.166  00:0c:29:a0:9b:36      1      60  VMware, Inc.                                                                                             
+ 10.109.172.228  e8:5a:8b:47:85:4b      1      60  Xiaomi Communications Co Ltd                                                                             

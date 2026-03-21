@@ -1,0 +1,20 @@
+hashcat (v7.1.2) starting
+
+You have enabled --force to bypass dangerous warnings and errors!
+This can hide serious problems and should only be done when debugging.
+Do not report hashcat issues encountered when using --force.
+
+Initializing bridges. Please be patient...Initialized bridgesInitializing backend runtimes. Please be patient...Initialized backend runtimesInitializing backend devices. Please be patient...Initialized backend devicesOpenCL API (OpenCL 3.0 PoCL 6.0+debian  Linux, None+Asserts, RELOC, SPIR-V, LLVM 18.1.8, SLEEF, DISTRO, POCL_DEBUG) - Platform #1 [The pocl project]
+====================================================================================================================================================
+* Device #01: cpu-haswell-AMD Ryzen 5 5600H with Radeon Graphics, 2660/5321 MB (1024 MB allocatable), 3MCU
+
+Minimum password length supported by kernel: 0
+Maximum password length supported by kernel: 72
+Minimum salt length supported by kernel: 0
+Maximum salt length supported by kernel: 256
+
+Counting lines in hash.txt. Please be patient...Counted lines in hash.txtParsed Hashes: 1/1 (100.00%)Parsed Hashes: 1/1 (100.00%)Sorting hashes. Please be patient...Sorted hashesRemoving duplicate hashes. Please be patient...Removed duplicate hashesSorting salts. Please be patient...Sorted saltsComparing hashes with potfile entries. Please be patient...Compared hashes with potfile entriesINFO: All hashes found as potfile and/or empty entries! Use --show to display them.
+      For more information, see https://hashcat.net/faq/potfile
+
+Started: Fri Mar 20 19:46:04 2026
+Stopped: Fri Mar 20 19:46:08 2026
